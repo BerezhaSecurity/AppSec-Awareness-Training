@@ -4,6 +4,4 @@
 1. install Docker for Desktop https://www.docker.com/products/docker-desktop
 1. register at Web Security Academy https://portswigger.net/web-security
 1. install Zoom https://zoom.us
-1. import/accept the training schedule to the calendar: ``insert URL``
-
-Please acknowledge the completion by putting + as a reaction. Thanks! 
+1. import/accept the training schedule to the calendar: ``request from the trainer``
