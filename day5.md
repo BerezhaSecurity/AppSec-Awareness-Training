@@ -1,12 +1,12 @@
-# Software Development Life Cycle
+# Security Testing
 
-Microsoft SDL and its history
-- https://www.microsoft.com/en-us/SDL/process/training.aspx
+## Day 5 notes
 
-Select a simple showcase esample of business case for software application and use [OWASP SAMM](https://www.owasp.org/index.php/OWASP_SAMM_Project) to demonstrate the methodology basis for secure SDLC.
+### Code Review and Security Testing
+- Damn Vulnerable Web Application docker run -d -p 8888:80 infoslack/dvwa
+- DVWA testing labs and code review: Command Injection
+- SQLMap basic usage sqlmap -r <<request.txt>>
+- DVWA testing labs and code review: SQL Injection
 
-# Practice: exercise Threat Modeling
-- [Application Security Architecture Cheat Sheet](https://www.owasp.org/index.php/Application_Security_Architecture_Cheat_Sheet)
-
-# Practice: exercise Design Review
-- [Attack Surface Analysis Cheat Sheet](https://www.owasp.org/index.php/Attack_Surface_Analysis_Cheat_Sheet)
+### Home work 
+- Web Security Academy SQLi Labs https://portswigger.net/web-security/sql-injection (preferably blind SQLi)
