@@ -1,45 +1,27 @@
 # Theory: fundamental security principles
 
-Security Maxims overview
-- https://www.techrepublic.com/blog/it-security/it-security-maxims-for-the-ages/
+## Day 2 Notes
 
-Security Engineering principles overview.
-- Least Privilege
-- Fail-Safe Defaults
-- Economy of Mechanism
-- Complete Mediation
-- Open Design
-- Separation of Privilege
-- Least Common Mechanism
-- Psychological Acceptability
-- Defense in Depth
-- Secure Weakest Link First
+### Vulnerability & attack data sources
+- National Vulnerability Database (CVE) https://nvd.nist.gov
+- CVSS Calculator https://www.first.org/cvss/calculator/3.1
+- CWE https://cwe.mitre.org
+- ATT&CK https://attack.mitre.org
+- ATT&CK Navigator https://mitre-attack.github.io/attack-navigator/enterprise/
+- Bugcrowd VRT https://bugcrowd.com/vulnerability-rating-taxonomy
 
-Ross Anderson's Security Engineering book
-- https://www.cl.cam.ac.uk/~rja14/book.html
+### Main OWASP resources
+- OWASP Top 10 https://owasp.org/www-project-top-ten/
+- OWASP Testing Project  https://owasp.org/www-project-web-security-testing-guide/
+- OWASP ASVS https://owasp.org/www-project-application-security-verification-standard/
+- OWASP SAMM https://owaspsamm.org/model/
 
-Garry McGraws' 10 software security principles
-- http://www.zdnet.com/article/gary-mcgraw-10-steps-to-secure-software/
+### Vulnerable apps for training:
+- DVWA http://www.dvwa.co.uk
+- OWASP Juice Shop https://owasp.org/www-project-juice-shop/
 
-Walk through the flagship OWASP projects
-- ASVS: https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project
-- Testing Guide: https://www.owasp.org/index.php/OWASP_Testing_Project
-- ZAP: https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project
-- SonarQube: https://www.sonarqube.org
-
-# Practice: application security testing fundamentals
-
-SecLists
-- https://github.com/danielmiessler/SecLists
-
-Deep dive into HTTP/HTML/JS/XSS
-- Demo and overbiew of Burp Suite CE.
-- Walk thorugh the Reflected and Stored XSS, detection and mitigation techniques.
-- XSS filters and evasion of thereof. https://wiremask.eu/articles/xss-filter-evasion-cheat-sheet/
-
-SQLi overview
-- Web-applications and databases.
-- Types of SQLi, detection and expoitation tools.
-
-Security penetration testing workflow
-- Discovery, reporting and remediation
+### Home work
+- Read Top10 and SAMM
+- Browse WSTG & ASVS.
+- Watch this talk https://www.youtube.com/watch?v=N8nsaOHO_LU
+- Play around with vulnerable apps above or Web Academy https://portswigger.net/web-security
