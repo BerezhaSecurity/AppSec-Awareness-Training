@@ -1,34 +1,33 @@
-# Demonstrate penetration testing workflow
+# Secure SDL overview
 
-Review OWASP Testing Guide concepts as a methodology basis for security testing process
-- https://www.owasp.org/index.php/OWASP_Testing_Project 
+## Day 3 Notes
 
-OWASP DVWA
-- [DVWA](http://www.dvwa.co.uk)
-- [DVWA in Docker](https://hub.docker.com/r/infoslack/dvwa/)
+### Secure SDL overview
+- Microsoft SDL https://www.microsoft.com/en-us/securityengineering/sdl/
+- OWASP SAMM https://owaspsamm.org/model/
 
-Metasploitable3 + Metasploit Framework
-- https://github.com/rapid7/metasploitable3
-- https://github.com/rapid7/metasploit-framework
+### Security Engineering principles
 
-# Practice: demonstrate an automated approach to security testing
+- Least Privilege
+- Fail-Safe Defaults
+- Economy of Mechanism
+- Complete Mediation 
+- Open Design
+- Separation of Privilege
+- Least Common Mechanism
+- Psychological Acceptability
+- Defense in Depth
+- Secure Weakest Link First
 
-Tools
-- Burp Suite https://portswigger.net/burp/
-- Nessus https://www.tenable.com/products/nessus/nessus-professional
+- Ross Anderson SE book https://www.cl.cam.ac.uk/~rja14/book.html
 
-Demonstrate code review basic concepts
-- OWASP DVWA source code
+### Threat Modeling
+- My talk on Threat Modeling 101 with Threat Dragon https://www.youtube.com/watch?v=ebTyyZuIgqI
 
-# Practice: SQLi vulnerabilities
+### History references
+- l0pht heavy industries hackers testify before Congress https://www.youtube.com/watch?v=VVJldn_MmMY
+- Gary McGraw software security principles article https://www.zdnet.com/article/gary-mcgraw-10-steps-to-secure-software/
 
-Detection and exploitation
-- Introducing [CyberChef](https://gchq.github.io/CyberChef/)
-- SQLMap 
-  ``brew install sqlmap``
-  ``apt install sqlmap``
-  http://sqlmap.org
-
-SQLi filter evasion
-- [Evasion techniques](https://websec.wordpress.com/2010/12/04/sqli-filter-evasion-cheat-sheet-mysql/)
-- [Evading PHP mysql_real_escape_string()](https://stackoverflow.com/questions/5741187/sql-injection-that-gets-around-mysql-real-escape-string#12118602)
+### Home work
+- Watch this talk by Adam Shostack: Threat Modeling Lessons from Star Wars https://www.youtube.com/watch?v=nd02oPnMdR4
+- Install OWASP Threat Dragon: https://owasp.org/www-project-threat-dragon/
