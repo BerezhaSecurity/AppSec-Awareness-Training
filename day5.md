@@ -1,11 +1,11 @@
-# Security Testing
+# Day 5 Notes
 
-## Day 5 notes
+## AppSec practices: Security Testing and Code Review
 
 ### Code Review and Security Testing
-- Damn Vulnerable Web Application docker run -d -p 8888:80 infoslack/dvwa
+- Damn Vulnerable Web Application ``docker run -d -p 8888:80 infoslack/dvwa``
 - DVWA testing labs and code review: Command Injection
-- SQLMap basic usage sqlmap -r <<request.txt>>
+- SQLMap basic usage ``sqlmap -r <<request.txt>>``
 - DVWA testing labs and code review: SQL Injection
 
 ### Home work 
