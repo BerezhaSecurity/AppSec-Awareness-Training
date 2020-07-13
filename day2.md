@@ -1,6 +1,6 @@
-# Theory: fundamental security principles
+# Day 2 Notes
 
-## Day 2 Notes
+## Software security: vulnerabilities, risk, and flagship OWASP projects
 
 ### Vulnerability & attack data sources
 - National Vulnerability Database (CVE) https://nvd.nist.gov
