@@ -7,7 +7,6 @@
 - OWASP SAMM https://owaspsamm.org/model/
 
 ### Security Engineering principles
-
 - Least Privilege
 - Fail-Safe Defaults
 - Economy of Mechanism
@@ -19,14 +18,13 @@
 - Defense in Depth
 - Secure Weakest Link First
 
-- Ross Anderson SE book https://www.cl.cam.ac.uk/~rja14/book.html
-
 ### Threat Modeling
 - My talk on Threat Modeling 101 with Threat Dragon https://www.youtube.com/watch?v=ebTyyZuIgqI
 
 ### History references
 - l0pht heavy industries hackers testify before Congress https://www.youtube.com/watch?v=VVJldn_MmMY
 - Gary McGraw software security principles article https://www.zdnet.com/article/gary-mcgraw-10-steps-to-secure-software/
+- Ross Anderson SE book https://www.cl.cam.ac.uk/~rja14/book.html
 
 ### Home work
 - Watch this talk by Adam Shostack: Threat Modeling Lessons from Star Wars https://www.youtube.com/watch?v=nd02oPnMdR4
