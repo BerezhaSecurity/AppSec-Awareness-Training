@@ -26,5 +26,6 @@
 ### Home work
 - Watch this talk by Adam Shostack: Threat Modeling Lessons from Star Wars https://www.youtube.com/watch?v=nd02oPnMdR4
 - Install OWASP Threat Dragon: https://owasp.org/www-project-threat-dragon/
+- Threat Dragon demo by its author Mike Goodwin https://www.youtube.com/watch?v=n6JGcZGFq5o
 - Watch Threat Modeling 101 with Threat Dragon https://www.youtube.com/watch?v=ebTyyZuIgqI
 
