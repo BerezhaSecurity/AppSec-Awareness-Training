@@ -6,6 +6,7 @@
 - Threat Dragon demo
 - Threat Modeling mini-training by Adam Shostack https://www.linkedin.com/learning/learning-threat-modeling-for-security-professionals
 - Threat Modeling book https://threatmodelingbook.com
+- Threat Modelinf Manifesto https://www.threatmodelingmanifesto.org/
 - Mitigation and proactive cheat sheets series from OWASP https://cheatsheetseries.owasp.org/cheatsheets/
 
 ### Security Testing
