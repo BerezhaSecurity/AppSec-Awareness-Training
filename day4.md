@@ -9,7 +9,7 @@
 - Threat Modeling Manifesto https://www.threatmodelingmanifesto.org
 - Mitigation and proactive cheat sheets series from OWASP https://cheatsheetseries.owasp.org/cheatsheets/
 
-### Security Testing (use [Checklist](https://github.com/OWASP/wstg/blob/master/checklist/Testing_Checklist.md))
+### Security Testing (use [Checklist](OWASP Web Security Testing Checklist.ml))
 - Service discovering
 - Web files/directories enumeration
 - Burp Suite
