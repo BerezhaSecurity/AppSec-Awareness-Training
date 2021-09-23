@@ -9,8 +9,10 @@
 - Threat Modeling Manifesto https://www.threatmodelingmanifesto.org
 - Mitigation and proactive cheat sheets series from OWASP https://cheatsheetseries.owasp.org/cheatsheets/
 
-### Security Testing
-- Burp Suite CE
+### Security Testing (use [Checklist](https://github.com/OWASP/wstg/blob/master/checklist/Testing_Checklist.md))
+- Service discovering
+- Web files/directories enumeration
+- Burp Suite
 - Fuzzing with SecLists https://github.com/danielmiessler/SecLists
 - XSS Hunter https://xsshunter.com/app
 - BeEF https://beefproject.com
