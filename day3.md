@@ -1,4 +1,4 @@
-#DAST Day 3. Security Architecture and Threat Modeling
+# DAST Day 3. Security Architecture and Threat Modeling
 
 * Secure Software Development Lifecycle (SDL) and Application Security practices
     * Microsoft SDL https://www.microsoft.com/en-us/securityengineering/sdl 
