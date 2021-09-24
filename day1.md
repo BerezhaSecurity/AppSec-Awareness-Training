@@ -1,7 +1,3 @@
-# Day 1 Notes
-
-## Establish context: demonstrate current state of applicaiton security and its effect on technology and economy
-
 # DAST Day 1. Introduction to Cybersecurity
 
 * Have you ever been hacked?
