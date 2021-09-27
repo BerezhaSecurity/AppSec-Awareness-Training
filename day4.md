@@ -10,13 +10,14 @@
 - Mitigation and proactive cheat sheets series from OWASP https://cheatsheetseries.owasp.org/cheatsheets/
 
 ### Security Testing (use [Checklist](OWASP_Web_Security_Testing_Checklist.md))
-- Service discovering
-- Web files/directories enumeration
-- Burp Suite
-- Fuzzing with SecLists https://github.com/danielmiessler/SecLists
-- XSS Hunter https://xsshunter.com/app
-- BeEF https://beefproject.com
-- XSS Polyglots https://gist.github.com/michenriksen/d729cd67736d750b3551876bbedbe626
+- Service discovering (Nmap)
+- Web files/directories enumeration (Dirsearch)
+- [Burp Suite](https://portswigger.net/burp)
+- [Fuzzing with SecLists](https://github.com/danielmiessler/SecLists)
+- [XSS Hunter](https://xsshunter.com/app)
+- [BeEF](https://beefproject.com)
+- [XSS Polyglots](https://gist.github.com/michenriksen/d729cd67736d750b3551876bbedbe626)
+- [Payloads](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 ### Home work
 - Do some XSS labs https://portswigger.net/web-security/cross-site-scripting
