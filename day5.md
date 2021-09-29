@@ -18,3 +18,5 @@ Vue uses : `v-html`
 
 - hr-yo.ga business logic on password recovery
 - hr-yo.ga NoSQLi
+
+- [Web Security Academy](https://portswigger.net/web-security)
