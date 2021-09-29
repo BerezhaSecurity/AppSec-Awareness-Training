@@ -1,8 +1,8 @@
 # Day 5 Notes
 
-## AppSec practices: Security Testing and Code Review
+## Secure Coding
 
-- [CODE REVIEW GUIDE](https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf)
+- [Code Review Guide](https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf)
 - [Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/)
 - NodeJS XSS (xss1,xss2,xss3)
 Injecting Raw Html is possible in the current frameworks.
