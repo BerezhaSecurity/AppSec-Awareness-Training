@@ -12,7 +12,7 @@ Vue uses : `v-html`
 - XSS in hr-yo.ga
 - CODE REVIEW GUIDE - CODE CRAWLING for Grep
 
-- (SecureFlag)[https://secureflag.owasp.org/]
+- [SecureFlag](https://secureflag.owasp.org/)
 - Mass Assignment in User Sign-up
 - Prototype Pollution
 
