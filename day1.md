@@ -38,6 +38,9 @@
         * Understanding the cyberattack kill chain
             * OWASP Top 10 2017 https://owasp.org/www-project-top-ten/2017/Application_Security_Risks.html 
             * Mitre ATT&CK matrix https://mitre-attack.github.io/attack-navigator/ 
+            * Mitre CAPEC https://capec.mitre.org
+            * [MITRE ATT&CK vs. Cyber Kill Chain vs. Diamond Model](https://medium.com/cycraft/cycraft-classroom-mitre-att-ck-vs-cyber-kill-chain-vs-diamond-model-1cc8fa49a20f)
+            * 
     * Security vulnerabilities
         * OWASP Top 10 2021 https://owasp.org/Top10/ 
 * Security design and secure protocol demo based on the Have I Been Pwned website.
