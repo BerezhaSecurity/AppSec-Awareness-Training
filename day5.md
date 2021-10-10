@@ -16,7 +16,9 @@
 - Angular uses `[innerHtml]`
 - Vue uses : `v-html`
 - XSS in hr-yo.ga portal
-
+- [XSS Hunter](https://xsshunter.com/app)
+- [BeEF](https://beefproject.com)
+- [XSS Polyglots](https://gist.github.com/michenriksen/d729cd67736d750b3551876bbedbe626)
 ### More Practice 
 - [SecureFlag](https://secureflag.owasp.org/)
 - [Mass Assignment in User Sign-up](https://secureflag.owasp.org/user/index.html#/exercises/details/f1fb9cb4-559f-460e-af9b-7bfbcd092dd8)
