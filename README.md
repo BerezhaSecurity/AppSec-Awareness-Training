@@ -13,7 +13,7 @@ This training is prepared, maintained and conducted by [BSG](https://bsg.tech) t
 - [Day 1 - Introduction to Cybersecurity](day1.md)
 - [Day 2 - Application Security Fundamentals](day2.md)
 - [Day 3 - Security Architecture and Threat Modeling](day3.md)
-- [Day 4 - Secure Development](day4.md)
-- [Day 5 - Security Testing](day5.md)
+- [Day 4 - Security Testing](day4.md)
+- [Day 5 - Secure Development](day5.md)
 
 [References](references.md)
