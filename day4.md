@@ -18,7 +18,9 @@ The WSTG is a comprehensive guide to testing the security of web applications an
 - [Burp Suite](https://portswigger.net/burp)
 - [Fuzzing with SecLists](https://github.com/danielmiessler/SecLists)
 - [A list of useful payloads and bypass for Web Application Security and Pentest/CTF](https://github.com/swisskyrepo/PayloadsAllTheThings)
-
+- [Command Injection `user/user12345`](http://pygoat.herokuapp.com/cmd)
+- [Lab: File path traversal, simple case](https://portswigger.net/web-security/file-path-traversal/lab-simple)
+- SSRF on OWASP Juice Shop -> Request a hidden resource on server through server 
 
 ## Homework
 - [OWASP Juice Shop: Probably the most modern and sophisticated insecure web application](https://github.com/juice-shop/juice-shop)
