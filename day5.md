@@ -29,6 +29,10 @@
 - [hr-yo.ga](https://appsec.hr-yo.ga) business logic on password recovery
 - [hr-yo.ga](https://appsec.hr-yo.ga) NoSQLi vulnerability
 
+# ASP.NET labs
+- [Arbitrary File Download in Catalogs](https://secureflag.owasp.org/user/index.html#/exercises/details/fc5671b8-f258-4356-b0cc-4e709100d021) E-commerce application allows visitors to download the product catalog `src/Web/Controllers/PublicController.cs`
+- [Open Redirect](https://secureflag.owasp.org/user/index.html#/exercises/paths/details/84bc7af1-af23-4eaf-8fad-474e52a0531e) VulnShop application accepts untrusted input that could redirect the request to an attacker-controlled URL `src/Web/Areas/Identity/Pages/Account/Login.cshtml.cs`
+
 ### Homework
 - [Web Security Academy](https://portswigger.net/web-security)
 - [Juice Shop](https://github.com/juice-shop/juice-shop)
