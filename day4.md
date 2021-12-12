@@ -19,6 +19,7 @@ The WSTG is a comprehensive guide to testing the security of web applications an
 - Encrypt / Hash [Hashcat](https://hashcat.net/hashcat/)
 
 ### WSTG Identity Management, Authentication, Authorization, Session Management
+<img src="./images/ASA.png" width="600"/>
 ### WSTG-INPV	Input Validation Testing
 - [Burp Suite](https://portswigger.net/burp)
 - [Fuzzing with SecLists](https://github.com/danielmiessler/SecLists)
