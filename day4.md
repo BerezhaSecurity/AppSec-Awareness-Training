@@ -20,6 +20,9 @@ The WSTG is a comprehensive guide to testing the security of web applications an
 
 ### WSTG Identity Management, Authentication, Authorization, Session Management
 <img src="./images/ASA.png" width="600"/>
+<img src="./images/BAC.png" width="600"/>
+
+### WSTG-ERRH	Error Handling
 
 ### WSTG-INPV	Input Validation Testing
 - [Burp Suite](https://portswigger.net/burp)
