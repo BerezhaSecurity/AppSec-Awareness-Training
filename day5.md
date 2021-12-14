@@ -1,14 +1,19 @@
-# Day 5 Notes
-
-## Secure Development
+# Day 5 Secure Development
 
 ### Guides:
 
 - [Code Review Guide](https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf)
 - CODE REVIEW GUIDE - CODE CRAWLING for Grep
 - [Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/)
+- [OWASP .NET Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html)
 
 ### [Insecure source code management](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Source%20Code%20Management)
+
+### Vulnerabilities and Security Advisories
+- [Snyk](https://security.snyk.io)
+- [.NET announcments](https://github.com/dotnet/announcements/issues?q=is%3Aopen+is%3Aissue+label%3ASecurity)
+- [ASP.NET announcments](https://github.com/aspnet/Announcements/issues?q=is%3Aopen+is%3Aissue+label%3ASecurity) 
+- 
 
 ### Some XSS examples
 - NodeJS XSS (xss1,xss2,xss3) simple examples
@@ -32,6 +37,8 @@
 # ASP.NET labs
 - [Arbitrary File Download in Catalogs](https://secureflag.owasp.org/user/index.html#/exercises/details/fc5671b8-f258-4356-b0cc-4e709100d021) E-commerce application allows visitors to download the product catalog `src/Web/Controllers/PublicController.cs`
 - [Open Redirect](https://secureflag.owasp.org/user/index.html#/exercises/paths/details/84bc7af1-af23-4eaf-8fad-474e52a0531e) VulnShop application accepts untrusted input that could redirect the request to an attacker-controlled URL `src/Web/Areas/Identity/Pages/Account/Login.cshtml.cs`
+- [OAuth Cookie Stealing via unchecked Redirect URI](https://secureflag.owasp.org/user/index.html#/exercises/details/df798d83-fcc4-49c1-a742-a3ba59ffdbee)
+- [Unsafe Deserialization in Geo update](https://secureflag.owasp.org/user/index.html#/exercises/details/2e25648b-b319-43d5-af44-8486923e5b72)
 
 ### Homework
 - [Web Security Academy](https://portswigger.net/web-security)
