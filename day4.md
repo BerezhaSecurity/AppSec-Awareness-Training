@@ -31,6 +31,7 @@ The WSTG is a comprehensive guide to testing the security of web applications an
 - [Command Injection](http://pygoat.herokuapp.com/cmd) `user/user12345`
 - [Lab: File path traversal, simple case](https://portswigger.net/web-security/file-path-traversal/lab-simple)
 - SSRF on OWASP Juice Shop `docker run --rm -p 3000:3000 bkimminich/juice-shop`
+- SSRF -> Gopher -> Scanning internal network -> Postgres found -> Executing command in Postgres
 
 ## Homework
 - [OWASP Juice Shop: Probably the most modern and sophisticated insecure web application](https://github.com/juice-shop/juice-shop)
