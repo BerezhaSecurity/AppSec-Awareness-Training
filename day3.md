@@ -1,4 +1,4 @@
-# Day 4 Notes - Security Testing
+# Day 3 Notes - Security Testing
 
 ## OWASP Web Security Testing Guide
 The WSTG is a comprehensive guide to testing the security of web applications and web services.
